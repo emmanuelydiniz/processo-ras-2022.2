@@ -1,6 +1,6 @@
 # processo-ras-2022.2
 ## Desafio 1 
-foi feito um circuito utilizando um arduino, através do código do site consegui realizar a alteração entre os intervalos em que a LED ligava, a dificuldade foi quanto a colocação dos cabos conectando a LED ao arduino.
+foi feito um circuito utilizando um arduino, através do código do site consegui realizar a alteração entre os intervalos em que o LED ligava, a dificuldade foi quanto a colocação dos cabos conectando o LED ao arduino.
 ## Desafio 2 
 realizei alterações nos pixels da imagem escolhida, através de códigos expostos na apostila, com eles foi possível realizar algumas funções na foto, desde gerar uma cor sólida até gerar grades de cor com os pixels componentes. 
 ## Desafio 3 
